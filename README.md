@@ -1,7 +1,7 @@
 # Draw Program
-Hello, I have created and still improving a Paint like program. Soon I would Add all the tools that Paint have and more.
+Hello, I have created and still improving a Paint like program. Soon I would add all the tools that Paint have and more.
 
-# How to run the code
+# How To Run The Code In Visual Studios
   Make sure all the .h, .cpp, .fs and .vs are placed in one folder.
   Make sure the GLM folder is placed with the cpp and h files so for example the #include "glm\glm.h" will work.
   Edit the Include Directories to the Include folder.
@@ -10,7 +10,7 @@ Hello, I have created and still improving a Paint like program. Soon I would Add
     [opengl32.lib,
     glfw3.lib].
   Build the program.
-  If any error happens throughout the Build process, contact me on my Email: balasali95@gmail.com.
+  If any error happens throughout the Build process, please contact me on my email: balasali95@gmail.com.
 
 Thank and Kind regards,
 
