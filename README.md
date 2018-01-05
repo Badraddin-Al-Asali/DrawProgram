@@ -12,6 +12,6 @@ Hello, I have created and still improving a Paint like program. Soon I would add
   Build the program.
   If any error happens throughout the Build process, please contact me on my email: balasali95@gmail.com.
 
-Thank and Kind regards,
+Thank you and Kind regards,
 
 Badraddin Al-Asali
