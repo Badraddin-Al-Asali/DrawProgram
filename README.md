@@ -7,8 +7,8 @@ Hello, I have created and still improving a Paint like program. Soon I would Add
   Edit the Include Directories to the Include folder.
   Edit the Library Directories to the libraries folder.
   In Linker Input, edit the Additional Dependencies and add:
-    opengl32.lib
-    glfw3.lib
+    [opengl32.lib,
+    glfw3.lib].
   Build the program.
   If any error happens throughout the Build process, contact me on my Email: balasali95@gmail.com.
 
